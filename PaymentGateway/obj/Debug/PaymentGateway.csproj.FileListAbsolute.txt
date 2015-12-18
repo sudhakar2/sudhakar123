@@ -1,0 +1,10 @@
+D:\TRAINING\MINDTREE\PROJECT\CODE\FINAL CODE - RELEASE CLEAN CODE - JUNE 20 2013 Pratian Cloud\PaymentGateway\bin\Debug\PaymentGateway.dll
+D:\TRAINING\MINDTREE\PROJECT\CODE\FINAL CODE - RELEASE CLEAN CODE - JUNE 20 2013 Pratian Cloud\PaymentGateway\bin\Debug\PaymentGateway.pdb
+D:\TRAINING\MINDTREE\PROJECT\CODE\FINAL CODE - RELEASE CLEAN CODE - JUNE 20 2013 Pratian Cloud\PaymentGateway\obj\Debug\ResolveAssemblyReference.cache
+D:\TRAINING\MINDTREE\PROJECT\CODE\FINAL CODE - RELEASE CLEAN CODE - JUNE 20 2013 Pratian Cloud\PaymentGateway\obj\Debug\PaymentGateway.dll
+D:\TRAINING\MINDTREE\PROJECT\CODE\FINAL CODE - RELEASE CLEAN CODE - JUNE 20 2013 Pratian Cloud\PaymentGateway\obj\Debug\PaymentGateway.pdb
+C:\Users\Administrator\Desktop\happytrip1\HappyTrip\PaymentGateway\bin\Debug\PaymentGateway.dll
+C:\Users\Administrator\Desktop\happytrip1\HappyTrip\PaymentGateway\bin\Debug\PaymentGateway.pdb
+C:\Users\Administrator\Desktop\happytrip1\HappyTrip\PaymentGateway\obj\Debug\PaymentGateway.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\happytrip1\HappyTrip\PaymentGateway\obj\Debug\PaymentGateway.dll
+C:\Users\Administrator\Desktop\happytrip1\HappyTrip\PaymentGateway\obj\Debug\PaymentGateway.pdb
